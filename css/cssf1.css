@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+
+
+}
+
+
+
+
+#navigation {
+   margin-bottom: 32px;
+
+}
+#navigation .link{
+    padding:18px
+
+}
+#navigation .link:hover {
+    background-color: darkgray;
+    cursor: pointer;
+
+}
+
+
+
+
+.produkt img {
+    width: 30%;
+    max-width: 400px;
+
+}
